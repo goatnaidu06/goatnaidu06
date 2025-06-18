@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Neil Naidu!
 
-<!--
-**goatnaidu06/goatnaidu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a sophomore undergraduate student at **San Jose State University**, pursuing a **B.S. in Computer Science and Linguistics**.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Data Structures** and exploring more advanced topics in computer science.
+- 🧠 Languages I've worked with: **Java**, **JavaScript**, **Python**.
+- 🔧 Skills: **Python**, **Java**, **Programming**, **Reliability**, **Communication**.
+- 🎮 I’m passionate about **coding**, **gaming**, and **art**.
+- 🌍 I love traveling, exploring new technologies, and getting involved with my community.
+- 🚀 Currently working on something cool—stay tuned!
+- 🎯 My goal is to **contribute to more open source projects** and grow as a developer.
+
+## 📫 How to Reach Me
+
+- 📧 Email: [naidu777naidu@gmail.com](mailto:naidu777naidu@gmail.com)  
+- 🧵 Twitter / Instagram: [@neilnaidu06](https://twitter.com/neilnaidu06)  
+- 💼 LinkedIn: [neil-naidu](https://www.linkedin.com/in/neil-naidu-b0a6a3252/)
+
+---
+
+⚒️ *This page is currently a work in progress—thanks for stopping by!*
