@@ -5,7 +5,9 @@
 ## 💻 About Me
 
 - 🌱 I'm currently learning **Data Structures** and exploring more advanced topics in computer science.
-- 🧠 Languages I've worked with: **Java**, **JavaScript**, **Python**.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+![image alt](https://github.com/goatnaidu06/goatnaidu06/blob/688ab8cba4a076285bd3d2d5e9d956e17d011ac4/JavaScript-logo.png)
 - 🔧 Skills: **Python**, **Java**, **Programming**, **Reliability**, **Communication**.
 - 🎮 I’m passionate about **coding**, **gaming**, and **art**.
 - 🌍 I love traveling, exploring new technologies, and getting involved with my community.
