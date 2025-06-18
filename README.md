@@ -18,7 +18,7 @@
 
 - 📧 Email: [naidu777naidu@gmail.com](mailto:naidu777naidu@gmail.com)  
 - 🧵 Twitter / Instagram: [@neilnaidu06](instagram.com/neilnaidu06)  
-- 💼 LinkedIn: [neil-naidu](https://www.linkedin.com/in/neil-naidu-b0a6a3252/)
+- 💼 LinkedIn: [here](https://www.linkedin.com/in/neil-naidu-b0a6a3252/)
 
 ---
 
