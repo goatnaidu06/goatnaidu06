@@ -8,15 +8,10 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 - 🌱 I'm currently learning Data Structures and exploring more advanced topics in computer science.
-  
-- 🔧 Skills: Python, Java, Programming, Reliability, Communication.
-
+- 🔧 Skills: Python, Java, Programming, Reliability, Communication
 - 🎮 I’m passionate about coding, gaming, and art.
-- 
 - 🌍 I love traveling, exploring new technologies, and getting involved with my community.
-- 
 - 🚀 Currently working on something cool—stay tuned!
-- 
 - 🎯 My goal is to contribute to more open source projects and grow as a developer.
 
 ## 📫 How to Reach Me
